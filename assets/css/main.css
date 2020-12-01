@@ -2263,9 +2263,20 @@
 		.image.left, .image.right {
 			max-width: 40%;
 		}
+		.image.article {
+			width: 10em;
+			height: 10em;
 
-			.image.left img, .image.right img {
+		}
+
+			.image.left img, .image.right img, .image.article img {
 				width: 100%;
+			}
+
+			.image.article img {
+				width: 100%;
+				height: 100%;
+				object-fit:cover;
 			}
 
 		.image.round img {
@@ -2276,6 +2287,12 @@
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
+		}
+
+		.image.article {
+			float: left;
+			padding: 0 1.0em 1.0em 0;
+			top: 0.45em;
 		}
 
 		.image.right {
