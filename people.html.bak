@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<!--
+	Theory by TEMPLATED	templated.co @templatedco	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>People</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="subpage">
+    <!-- Header -->
+    <header id="header">
+      <div class="inner"> <a href="index.html" class="logo">Soft and Complex
+          Matter</a>
+        <nav id="nav"> <a href="index.html">Home</a> <a href="people.html">People</a>
+          <a href="publications.html">Publications</a> </nav>
+        <a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+      </div>
+    </header>
+    <section id="one" class="wrapper">
+      <div class="inner">
+        <header class="align-center">
+          <h2>People</h2>
+          <p>Detailed information can be found by clicking on a name</p>
+        </header>
+      </div>
+    </section>
+    <section id="two" class="wrapper style1 special">
+      <div class="inner">
+        <div class="flex flex-4">
+          <div class="box person">
+            <div class="image round"> <img src="images/people/JOwMinKS.jpg" alt="Person 1"
+                style="width: 135px; height: 135px;"> </div>
+            <h3><a href="people/jon_otto_fossum.html">Jon Otto Fossum</a></h3>
+            <p>Professor PhD</p>
+            <p>Depatment of Physics, NTNU</p>
+            <icon> <a href="mailto:jon.fossum@ntnu.no" class="icon fa-envelope"
+                style="color:white"><span class="label">Envelope</span></a> </icon>
+            <icon> <a href="#" class="icon fab fa-researchgate" style="color:white"><span
+                  class="label">Reserchgate</span></a> </icon> <icon> <a href="#"
+                class="icon icon-ntnu" style="color:white"><span class="label">Reserchgate</span></a>
+            </icon> 
+            <span class="icon-ntnu"></span>
+            <i class="icon-ntnu"></i>
+          </div>
+          <div class="box person">
+            <div class="image round"> <img src="images/people/Paul.jpg" alt="Person 2">
+            </div>
+            <h3>Paul Dommersnes</h3>
+            <p>Professor PhD</p>
+          </div>
+          <div class="box person">
+            <div class="image round"> <img src="images/people/Kenneth.jpg" alt="Person 3">
+            </div>
+            <h3>Kenneth Dahl Knudsen</h3>
+            <p>Adjunct Professor PhD</p>
+            <p>Senior Scientist at IFE</p>
+          </div>
+          <div class="box person">
+            <div class="image round"> <img src="images/people/Steinar.jpg" alt="Person 4">
+            </div>
+            <h3>Steinar Raaen</h3>
+            <p>Professor PhD</p>
+          </div>
+          <div class="box person">
+            <div class="image round"> <img src="images/people/Ole.jpg" alt="Person 5"
+                style="width: 135px; height: 135px;"> </div>
+            <h3>Ole Tore Buset</h3>
+            <p>Staff Engineer</p>
+            <p>50% assigned to the Lab.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Three -->
+    <section id="three" class="wrapper">
+      <div class="inner">
+        <header class="align-center">
+          <h2>General contact</h2>
+          <p>If you do not know who to contact, use this form </p>
+        </header>
+        <form method="post" action="#">
+          <div class="row uniform">
+            <div class="6u 12u$(xsmall)"> <input name="name" id="name" value=""
+                placeholder="Name" type="text"> </div>
+            <div class="6u$ 12u$(xsmall)"> <input name="email" id="email" value=""
+                placeholder="Email" type="email"> </div>
+            <!-- Break -->
+            <div class="12u$">
+              <div class="select-wrapper">
+                <select name="category" id="category">
+                  <option value="">- Category -</option>
+                  <option value="1">Manufacturing</option>
+                  <option value="1">Shipping</option>
+                  <option value="1">Administration</option>
+                  <option value="1">Human Resources</option>
+                </select>
+              </div>
+            </div>
+            <!-- Break -->
+            <div class="4u 12u$(small)"> <input id="priority-low" name="priority"
+                checked="checked" type="radio"> <label for="priority-low">Low
+                Priority</label> </div>
+            <div class="4u 12u$(small)"> <input id="priority-normal" name="priority"
+                type="radio"> <label for="priority-normal">Normal Priority</label>
+            </div>
+            <div class="4u$ 12u$(small)"> <input id="priority-high" name="priority"
+                type="radio"> <label for="priority-high">High Priority</label>
+            </div>
+            <!-- Break -->
+            <div class="6u 12u$(small)"> <input id="copy" name="copy" type="checkbox">
+              <label for="copy">Email me a copy of this message</label> </div>
+            <div class="6u$ 12u$(small)"> <input id="human" name="human" checked="checked"
+                type="checkbox"> <label for="human">I am a human and not a
+                robot</label> </div>
+            <!-- Break -->
+            <div class="12u$"> <textarea name="message" id="message" placeholder="Enter your message"
+rows="6"></textarea> </div>
+            <!-- Break -->
+            <div class="12u$">
+              <ul class="actions">
+                <li><input value="Send Message" type="submit"></li>
+                <li><input value="Reset" class="alt" type="reset"></li>
+              </ul>
+            </div>
+          </div>
+        </form>
+      </div>
+    </section>
+    <!-- Footer -->
+    <footer id="footer">
+      <div class="inner">
+        <div class="flex">
+          <div class="copyright"> © Untitled. Design: <a href="https://templated.co">TEMPLATED</a>.
+            Images: <a href="https://unsplash.com">Unsplash</a>. </div>
+          <ul class="icons">
+            <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon fa-linkedin"><span class="label">linkedIn</span></a></li>
+            <li><a href="#" class="icon fa-pinterest-p"><span class="label">Pinterest</span></a></li>
+            <li><a href="#" class="icon fa-vimeo"><span class="label">Vimeo</span></a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

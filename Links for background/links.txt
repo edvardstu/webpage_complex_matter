@@ -1,0 +1,3 @@
+https://elbongurk.com/2016/03/creating-a-simple-responsive-rotating-banner/
+https://stackoverflow.com/questions/30198494/how-do-i-cycle-the-background-url-of-a-div-through-several-images
+https://jsfiddle.net/isherwood/6Ltdabt2/3
