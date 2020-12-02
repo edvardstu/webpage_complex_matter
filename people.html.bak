@@ -18,6 +18,7 @@
         <a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
       </div>
     </header>
+    <!-- Two -->
     <section id="one" class="wrapper">
       <div class="inner">
         <header class="align-center">
@@ -30,50 +31,72 @@
       <div class="inner">
         <div class="flex flex-4">
           <div class="box person">
-            <div class="image round"> <img src="images/people/JOwMinKS.jpg" alt="Person 1"
-                style="width: 135px; height: 135px;"> </div>
+            <div class="image round"> <img src="images/people/Jon_Fossum.jpg" alt="Person 1"
+                style="width: 135px; height: 135px; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover;">
+            </div>
             <h3><a href="people/jon_otto_fossum.html">Jon Otto Fossum</a></h3>
             <p>Professor PhD</p>
             <p>Depatment of Physics, NTNU</p>
             <icon> <a href="mailto:jon.fossum@ntnu.no" class="icon fa-envelope"
                 style="color:white"><span class="label">Envelope</span></a> </icon>
-            <icon> <a href="#" class="icon fab fa-researchgate" style="color:white"><span
-                  class="label">Reserchgate</span></a> </icon> <icon> <a href="#"
-                class="icon icon-ntnu" style="color:white"><span class="label">Reserchgate</span></a>
-            </icon> 
-            <span class="icon-ntnu"></span>
-            <i class="icon-ntnu"></i>
           </div>
           <div class="box person">
-            <div class="image round"> <img src="images/people/Paul.jpg" alt="Person 2">
+            <div class="image round"> <img src="images/people/Paul_Dommernes.jpg"
+                alt="Person 2" style="width: 135px; height: 135px; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover;">
             </div>
-            <h3>Paul Dommersnes</h3>
+            <h3><a href="people/paul_gunnar_dommernes.html">Paul Gunnar
+                Dommersnes</a></h3>
             <p>Professor PhD</p>
+            <icon> <a href="mailto:paul.dommersnes@ntnu.no" class="icon fa-envelope"
+                style="color:white"><span class="label">Envelope</span></a> </icon>
           </div>
           <div class="box person">
-            <div class="image round"> <img src="images/people/Kenneth.jpg" alt="Person 3">
+            <div class="image round"> <img src="images/people/Kenneth_Knudsen.jpg"
+                alt="Person 3" style="width: 135px; height: 135px; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover;">
             </div>
-            <h3>Kenneth Dahl Knudsen</h3>
+            <h3><a href="people/kenneth_dahl_knudsen.html">Kenneth Dahl Knudsen</a></h3>
             <p>Adjunct Professor PhD</p>
             <p>Senior Scientist at IFE</p>
+            <icon> <a href="mailto:kenneth.knudsen@ife.no" class="icon fa-envelope"
+                style="color:white"><span class="label">Envelope</span></a> </icon>
           </div>
           <div class="box person">
-            <div class="image round"> <img src="images/people/Steinar.jpg" alt="Person 4">
+            <div class="image round"> <img src="images/people/Steinar_Raaen.jpg"
+                alt="Person 4" style="width: 135px; height: 135px; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover;">
             </div>
-            <h3>Steinar Raaen</h3>
+            <h3><a href="people/steinar_raaen.html">Steinar Raaen</a></h3>
             <p>Professor PhD</p>
+            <icon> <a href="mailto:steinar_raaaen@ntnu.no" class="icon fa-envelope"
+                style="color:white"><span class="label">Envelope</span></a> </icon>
           </div>
           <div class="box person">
-            <div class="image round"> <img src="images/people/Ole.jpg" alt="Person 5"
-                style="width: 135px; height: 135px;"> </div>
-            <h3>Ole Tore Buset</h3>
+            <div class="image round"> <img src="images/people/Ole_Buset.jpg" alt="Person 5"
+                style="width: 135px; height: 135px; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover;">
+            </div>
+            <h3><a href="https://www.ntnu.edu/employees/ole.buset">Ole Tore
+                Buset</a></h3>
             <p>Staff Engineer</p>
             <p>50% assigned to the Lab.</p>
+            <icon> <a href="mailto:ole.buset@ntnu.no" class="icon fa-envelope"
+                style="color:white"><span class="label">Envelope</span></a> </icon>
+          </div>
+          <div class="box person">
+            <div class="image round"> <img src="images/people/Barbara_Pacakova.jpg"
+                alt="Person 5" style="width: 135px; height: 135px; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover; object-fit: cover;">
+            </div>
+            <h3><a href="https://www.ntnu.edu/employees/ole.buset">Barbara
+                Pacakova</a></h3>
+            <p> Postdoctoral researcher (NTNU) </p>
+            <p>Graphene/clay projects (NTNU, Chalmers Univ., Manchester Univ.)</p>
+            <p> Main supervisor: Prof. J. O. Fossum </p>
+            <icon> <a href="mailto:ole.buset@ntnu.no" class="icon fa-envelope"
+                style="color:white"><span class="label">Envelope</span></a> </icon>
+            <p></p>
           </div>
         </div>
       </div>
     </section>
-    <!-- Three -->
+    <!-- Two -->
     <section id="three" class="wrapper">
       <div class="inner">
         <header class="align-center">
@@ -81,6 +104,7 @@
           <p>If you do not know who to contact, use this form </p>
         </header>
         <form method="post" action="#">
+          <!-- https://stackoverflow.com/questions/31435012/how-to-send-html-form-data-by-email-to-an-email-id-by-using-javascript-without -->
           <div class="row uniform">
             <div class="6u 12u$(xsmall)"> <input name="name" id="name" value=""
                 placeholder="Name" type="text"> </div>
@@ -91,29 +115,13 @@
               <div class="select-wrapper">
                 <select name="category" id="category">
                   <option value="">- Category -</option>
-                  <option value="1">Manufacturing</option>
-                  <option value="1">Shipping</option>
-                  <option value="1">Administration</option>
-                  <option value="1">Human Resources</option>
+                  <option value="1">General</option>
+                  <option value="1">MSc/PhD projects</option>
+                  <option value="1">Events</option>
+                  <option value="1">Publications</option>
                 </select>
               </div>
             </div>
-            <!-- Break -->
-            <div class="4u 12u$(small)"> <input id="priority-low" name="priority"
-                checked="checked" type="radio"> <label for="priority-low">Low
-                Priority</label> </div>
-            <div class="4u 12u$(small)"> <input id="priority-normal" name="priority"
-                type="radio"> <label for="priority-normal">Normal Priority</label>
-            </div>
-            <div class="4u$ 12u$(small)"> <input id="priority-high" name="priority"
-                type="radio"> <label for="priority-high">High Priority</label>
-            </div>
-            <!-- Break -->
-            <div class="6u 12u$(small)"> <input id="copy" name="copy" type="checkbox">
-              <label for="copy">Email me a copy of this message</label> </div>
-            <div class="6u$ 12u$(small)"> <input id="human" name="human" checked="checked"
-                type="checkbox"> <label for="human">I am a human and not a
-                robot</label> </div>
             <!-- Break -->
             <div class="12u$"> <textarea name="message" id="message" placeholder="Enter your message"
 rows="6"></textarea> </div>
