@@ -4,764 +4,99 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {$/;"	function	line:16
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {$/;"	function	line:25
-body	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	body {$/;"	function	line:29
-ol, ul	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	ol, ul {$/;"	function	line:33
-blockquote, q	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	blockquote, q {$/;"	function	line:37
-blockquote:before, blockquote:after, q:before, q:after	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	blockquote:before, blockquote:after, q:before, q:after {$/;"	function	line:41
-table	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	table {$/;"	function	line:46
-body	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	body {$/;"	function	line:51
-*, *:before, *:after	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	*, *:before, *:after {$/;"	function	line:57
-.container	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.container {$/;"	function	line:65
-.container.\31 25\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.container.\\31 25\\25 {$/;"	function	line:70
-.container.\37 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.container.\\37 5\\25 {$/;"	function	line:76
-.container.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.container.\\35 0\\25 {$/;"	function	line:80
-.container.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.container.\\32 5\\25 {$/;"	function	line:84
-.container	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.container {$/;"	function	line:88
-@media screen and (max-width: 1680px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 1680px) {$/;"	function	line:92
-.container.\31 25\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\31 25\\25 {$/;"	function	line:94
-.container.\37 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\37 5\\25 {$/;"	function	line:100
-.container.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\35 0\\25 {$/;"	function	line:104
-.container.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\32 5\\25 {$/;"	function	line:108
-.container	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container {$/;"	function	line:112
-@media screen and (max-width: 1280px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 1280px) {$/;"	function	line:118
-.container.\31 25\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\31 25\\25 {$/;"	function	line:120
-.container.\37 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\37 5\\25 {$/;"	function	line:126
-.container.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\35 0\\25 {$/;"	function	line:130
-.container.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\32 5\\25 {$/;"	function	line:134
-.container	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container {$/;"	function	line:138
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 980px) {$/;"	function	line:144
-.container.\31 25\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\31 25\\25 {$/;"	function	line:146
-.container.\37 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\37 5\\25 {$/;"	function	line:152
-.container.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\35 0\\25 {$/;"	function	line:156
-.container.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\32 5\\25 {$/;"	function	line:160
-.container	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container {$/;"	function	line:164
-@media screen and (max-width: 736px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 736px) {$/;"	function	line:170
-.container.\31 25\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\31 25\\25 {$/;"	function	line:172
-.container.\37 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\37 5\\25 {$/;"	function	line:178
-.container.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\35 0\\25 {$/;"	function	line:182
-.container.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\32 5\\25 {$/;"	function	line:186
-.container	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container {$/;"	function	line:190
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 480px) {$/;"	function	line:196
-.container.\31 25\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\31 25\\25 {$/;"	function	line:198
-.container.\37 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\37 5\\25 {$/;"	function	line:204
-.container.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\35 0\\25 {$/;"	function	line:208
-.container.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container.\\32 5\\25 {$/;"	function	line:212
-.container	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.container {$/;"	function	line:216
-.row	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row {$/;"	function	line:224
-.row > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row > * {$/;"	function	line:231
-.row:after, .row:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row:after, .row:before {$/;"	function	line:238
-.row.uniform > * > :first-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform > * > :first-child {$/;"	function	line:245
-.row.uniform > * > :last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform > * > :last-child {$/;"	function	line:249
-.row.\30 \25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\30 \\25 > * {$/;"	function	line:253
-.row.\30 \25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\30 \\25 {$/;"	function	line:257
-.row.uniform.\30 \25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\30 \\25 > * {$/;"	function	line:261
-.row.uniform.\30 \25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\30 \\25 {$/;"	function	line:265
-.row > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row > * {$/;"	function	line:269
-.row	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row {$/;"	function	line:273
-.row.uniform > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform > * {$/;"	function	line:277
-.row.uniform	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform {$/;"	function	line:281
-.row.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\32 00\\25 > * {$/;"	function	line:285
-.row.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\32 00\\25 {$/;"	function	line:289
-.row.uniform.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\32 00\\25 > * {$/;"	function	line:293
-.row.uniform.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\32 00\\25 {$/;"	function	line:297
-.row.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\31 50\\25 > * {$/;"	function	line:301
-.row.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\31 50\\25 {$/;"	function	line:305
-.row.uniform.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\31 50\\25 > * {$/;"	function	line:309
-.row.uniform.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\31 50\\25 {$/;"	function	line:313
-.row.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\35 0\\25 > * {$/;"	function	line:317
-.row.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\35 0\\25 {$/;"	function	line:321
-.row.uniform.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\35 0\\25 > * {$/;"	function	line:325
-.row.uniform.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\35 0\\25 {$/;"	function	line:329
-.row.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\32 5\\25 > * {$/;"	function	line:333
-.row.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.\\32 5\\25 {$/;"	function	line:337
-.row.uniform.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\32 5\\25 > * {$/;"	function	line:341
-.row.uniform.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.row.uniform.\\32 5\\25 {$/;"	function	line:345
-.\31 2u, .\31 2u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\31 2u, .\\31 2u\\24 {$/;"	function	line:349
-.\31 1u, .\31 1u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\31 1u, .\\31 1u\\24 {$/;"	function	line:355
-.\31 0u, .\31 0u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\31 0u, .\\31 0u\\24 {$/;"	function	line:361
-.\39 u, .\39 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\39 u, .\\39 u\\24 {$/;"	function	line:367
-.\38 u, .\38 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\38 u, .\\38 u\\24 {$/;"	function	line:373
-.\37 u, .\37 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\37 u, .\\37 u\\24 {$/;"	function	line:379
-.\36 u, .\36 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\36 u, .\\36 u\\24 {$/;"	function	line:385
-.\35 u, .\35 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\35 u, .\\35 u\\24 {$/;"	function	line:391
-.\34 u, .\34 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\34 u, .\\34 u\\24 {$/;"	function	line:397
-.\33 u, .\33 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\33 u, .\\33 u\\24 {$/;"	function	line:403
-.\32 u, .\32 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\32 u, .\\32 u\\24 {$/;"	function	line:409
-.\31 u, .\31 u\24	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\31 u, .\\31 u\\24 {$/;"	function	line:415
-.\31 2u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\31 2u\\24 + *,$/;"	function	line:421
-.\31 1u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\31 1u\\24 + *,$/;"	function	line:422
-.\31 0u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\31 0u\\24 + *,$/;"	function	line:423
-.\39 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\39 u\\24 + *,$/;"	function	line:424
-.\38 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\38 u\\24 + *,$/;"	function	line:425
-.\37 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\37 u\\24 + *,$/;"	function	line:426
-.\36 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\36 u\\24 + *,$/;"	function	line:427
-.\35 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\35 u\\24 + *,$/;"	function	line:428
-.\34 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\34 u\\24 + *,$/;"	function	line:429
-.\33 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\33 u\\24 + *,$/;"	function	line:430
-.\32 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\32 u\\24 + *,$/;"	function	line:431
-.\31 u\24 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\31 u\\24 + * {$/;"	function	line:432
-.\-11u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-11u {$/;"	function	line:436
-.\-10u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-10u {$/;"	function	line:440
-.\-9u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-9u {$/;"	function	line:444
-.\-8u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-8u {$/;"	function	line:448
-.\-7u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-7u {$/;"	function	line:452
-.\-6u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-6u {$/;"	function	line:456
-.\-5u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-5u {$/;"	function	line:460
-.\-4u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-4u {$/;"	function	line:464
-.\-3u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-3u {$/;"	function	line:468
-.\-2u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-2u {$/;"	function	line:472
-.\-1u	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.\\-1u {$/;"	function	line:476
-@media screen and (max-width: 1680px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 1680px) {$/;"	function	line:480
-.row > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row > * {$/;"	function	line:482
-.row	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row {$/;"	function	line:486
-.row.uniform > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform > * {$/;"	function	line:490
-.row.uniform	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform {$/;"	function	line:494
-.row.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 > * {$/;"	function	line:498
-.row.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 {$/;"	function	line:502
-.row.uniform.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 > * {$/;"	function	line:506
-.row.uniform.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 {$/;"	function	line:510
-.row.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 > * {$/;"	function	line:514
-.row.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 {$/;"	function	line:518
-.row.uniform.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 > * {$/;"	function	line:522
-.row.uniform.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 {$/;"	function	line:526
-.row.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 > * {$/;"	function	line:530
-.row.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 {$/;"	function	line:534
-.row.uniform.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 > * {$/;"	function	line:538
-.row.uniform.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 {$/;"	function	line:542
-.row.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 > * {$/;"	function	line:546
-.row.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 {$/;"	function	line:550
-.row.uniform.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 > * {$/;"	function	line:554
-.row.uniform.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 {$/;"	function	line:558
-.\31 2u\28xlarge\29, .\31 2u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\28xlarge\\29, .\\31 2u\\24\\28xlarge\\29 {$/;"	function	line:562
-.\31 1u\28xlarge\29, .\31 1u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\28xlarge\\29, .\\31 1u\\24\\28xlarge\\29 {$/;"	function	line:568
-.\31 0u\28xlarge\29, .\31 0u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\28xlarge\\29, .\\31 0u\\24\\28xlarge\\29 {$/;"	function	line:574
-.\39 u\28xlarge\29, .\39 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\28xlarge\\29, .\\39 u\\24\\28xlarge\\29 {$/;"	function	line:580
-.\38 u\28xlarge\29, .\38 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\28xlarge\\29, .\\38 u\\24\\28xlarge\\29 {$/;"	function	line:586
-.\37 u\28xlarge\29, .\37 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\28xlarge\\29, .\\37 u\\24\\28xlarge\\29 {$/;"	function	line:592
-.\36 u\28xlarge\29, .\36 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\28xlarge\\29, .\\36 u\\24\\28xlarge\\29 {$/;"	function	line:598
-.\35 u\28xlarge\29, .\35 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\28xlarge\\29, .\\35 u\\24\\28xlarge\\29 {$/;"	function	line:604
-.\34 u\28xlarge\29, .\34 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\28xlarge\\29, .\\34 u\\24\\28xlarge\\29 {$/;"	function	line:610
-.\33 u\28xlarge\29, .\33 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\28xlarge\\29, .\\33 u\\24\\28xlarge\\29 {$/;"	function	line:616
-.\32 u\28xlarge\29, .\32 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\28xlarge\\29, .\\32 u\\24\\28xlarge\\29 {$/;"	function	line:622
-.\31 u\28xlarge\29, .\31 u\24\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\28xlarge\\29, .\\31 u\\24\\28xlarge\\29 {$/;"	function	line:628
-.\31 2u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\24\\28xlarge\\29 + *,$/;"	function	line:634
-.\31 1u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\24\\28xlarge\\29 + *,$/;"	function	line:635
-.\31 0u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\24\\28xlarge\\29 + *,$/;"	function	line:636
-.\39 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\24\\28xlarge\\29 + *,$/;"	function	line:637
-.\38 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\24\\28xlarge\\29 + *,$/;"	function	line:638
-.\37 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\24\\28xlarge\\29 + *,$/;"	function	line:639
-.\36 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\24\\28xlarge\\29 + *,$/;"	function	line:640
-.\35 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\24\\28xlarge\\29 + *,$/;"	function	line:641
-.\34 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\24\\28xlarge\\29 + *,$/;"	function	line:642
-.\33 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\24\\28xlarge\\29 + *,$/;"	function	line:643
-.\32 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\24\\28xlarge\\29 + *,$/;"	function	line:644
-.\31 u\24\28xlarge\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\24\\28xlarge\\29 + * {$/;"	function	line:645
-.\-11u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-11u\\28xlarge\\29 {$/;"	function	line:649
-.\-10u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-10u\\28xlarge\\29 {$/;"	function	line:653
-.\-9u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-9u\\28xlarge\\29 {$/;"	function	line:657
-.\-8u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-8u\\28xlarge\\29 {$/;"	function	line:661
-.\-7u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-7u\\28xlarge\\29 {$/;"	function	line:665
-.\-6u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-6u\\28xlarge\\29 {$/;"	function	line:669
-.\-5u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-5u\\28xlarge\\29 {$/;"	function	line:673
-.\-4u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-4u\\28xlarge\\29 {$/;"	function	line:677
-.\-3u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-3u\\28xlarge\\29 {$/;"	function	line:681
-.\-2u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-2u\\28xlarge\\29 {$/;"	function	line:685
-.\-1u\28xlarge\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-1u\\28xlarge\\29 {$/;"	function	line:689
-@media screen and (max-width: 1280px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 1280px) {$/;"	function	line:695
-.row > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row > * {$/;"	function	line:697
-.row	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row {$/;"	function	line:701
-.row.uniform > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform > * {$/;"	function	line:705
-.row.uniform	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform {$/;"	function	line:709
-.row.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 > * {$/;"	function	line:713
-.row.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 {$/;"	function	line:717
-.row.uniform.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 > * {$/;"	function	line:721
-.row.uniform.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 {$/;"	function	line:725
-.row.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 > * {$/;"	function	line:729
-.row.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 {$/;"	function	line:733
-.row.uniform.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 > * {$/;"	function	line:737
-.row.uniform.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 {$/;"	function	line:741
-.row.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 > * {$/;"	function	line:745
-.row.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 {$/;"	function	line:749
-.row.uniform.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 > * {$/;"	function	line:753
-.row.uniform.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 {$/;"	function	line:757
-.row.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 > * {$/;"	function	line:761
-.row.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 {$/;"	function	line:765
-.row.uniform.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 > * {$/;"	function	line:769
-.row.uniform.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 {$/;"	function	line:773
-.\31 2u\28large\29, .\31 2u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\28large\\29, .\\31 2u\\24\\28large\\29 {$/;"	function	line:777
-.\31 1u\28large\29, .\31 1u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\28large\\29, .\\31 1u\\24\\28large\\29 {$/;"	function	line:783
-.\31 0u\28large\29, .\31 0u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\28large\\29, .\\31 0u\\24\\28large\\29 {$/;"	function	line:789
-.\39 u\28large\29, .\39 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\28large\\29, .\\39 u\\24\\28large\\29 {$/;"	function	line:795
-.\38 u\28large\29, .\38 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\28large\\29, .\\38 u\\24\\28large\\29 {$/;"	function	line:801
-.\37 u\28large\29, .\37 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\28large\\29, .\\37 u\\24\\28large\\29 {$/;"	function	line:807
-.\36 u\28large\29, .\36 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\28large\\29, .\\36 u\\24\\28large\\29 {$/;"	function	line:813
-.\35 u\28large\29, .\35 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\28large\\29, .\\35 u\\24\\28large\\29 {$/;"	function	line:819
-.\34 u\28large\29, .\34 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\28large\\29, .\\34 u\\24\\28large\\29 {$/;"	function	line:825
-.\33 u\28large\29, .\33 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\28large\\29, .\\33 u\\24\\28large\\29 {$/;"	function	line:831
-.\32 u\28large\29, .\32 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\28large\\29, .\\32 u\\24\\28large\\29 {$/;"	function	line:837
-.\31 u\28large\29, .\31 u\24\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\28large\\29, .\\31 u\\24\\28large\\29 {$/;"	function	line:843
-.\31 2u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\24\\28large\\29 + *,$/;"	function	line:849
-.\31 1u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\24\\28large\\29 + *,$/;"	function	line:850
-.\31 0u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\24\\28large\\29 + *,$/;"	function	line:851
-.\39 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\24\\28large\\29 + *,$/;"	function	line:852
-.\38 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\24\\28large\\29 + *,$/;"	function	line:853
-.\37 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\24\\28large\\29 + *,$/;"	function	line:854
-.\36 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\24\\28large\\29 + *,$/;"	function	line:855
-.\35 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\24\\28large\\29 + *,$/;"	function	line:856
-.\34 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\24\\28large\\29 + *,$/;"	function	line:857
-.\33 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\24\\28large\\29 + *,$/;"	function	line:858
-.\32 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\24\\28large\\29 + *,$/;"	function	line:859
-.\31 u\24\28large\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\24\\28large\\29 + * {$/;"	function	line:860
-.\-11u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-11u\\28large\\29 {$/;"	function	line:864
-.\-10u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-10u\\28large\\29 {$/;"	function	line:868
-.\-9u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-9u\\28large\\29 {$/;"	function	line:872
-.\-8u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-8u\\28large\\29 {$/;"	function	line:876
-.\-7u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-7u\\28large\\29 {$/;"	function	line:880
-.\-6u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-6u\\28large\\29 {$/;"	function	line:884
-.\-5u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-5u\\28large\\29 {$/;"	function	line:888
-.\-4u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-4u\\28large\\29 {$/;"	function	line:892
-.\-3u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-3u\\28large\\29 {$/;"	function	line:896
-.\-2u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-2u\\28large\\29 {$/;"	function	line:900
-.\-1u\28large\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-1u\\28large\\29 {$/;"	function	line:904
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 980px) {$/;"	function	line:910
-.row > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row > * {$/;"	function	line:912
-.row	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row {$/;"	function	line:916
-.row.uniform > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform > * {$/;"	function	line:920
-.row.uniform	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform {$/;"	function	line:924
-.row.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 > * {$/;"	function	line:928
-.row.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 {$/;"	function	line:932
-.row.uniform.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 > * {$/;"	function	line:936
-.row.uniform.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 {$/;"	function	line:940
-.row.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 > * {$/;"	function	line:944
-.row.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 {$/;"	function	line:948
-.row.uniform.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 > * {$/;"	function	line:952
-.row.uniform.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 {$/;"	function	line:956
-.row.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 > * {$/;"	function	line:960
-.row.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 {$/;"	function	line:964
-.row.uniform.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 > * {$/;"	function	line:968
-.row.uniform.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 {$/;"	function	line:972
-.row.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 > * {$/;"	function	line:976
-.row.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 {$/;"	function	line:980
-.row.uniform.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 > * {$/;"	function	line:984
-.row.uniform.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 {$/;"	function	line:988
-.\31 2u\28medium\29, .\31 2u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\28medium\\29, .\\31 2u\\24\\28medium\\29 {$/;"	function	line:992
-.\31 1u\28medium\29, .\31 1u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\28medium\\29, .\\31 1u\\24\\28medium\\29 {$/;"	function	line:998
-.\31 0u\28medium\29, .\31 0u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\28medium\\29, .\\31 0u\\24\\28medium\\29 {$/;"	function	line:1004
-.\39 u\28medium\29, .\39 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\28medium\\29, .\\39 u\\24\\28medium\\29 {$/;"	function	line:1010
-.\38 u\28medium\29, .\38 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\28medium\\29, .\\38 u\\24\\28medium\\29 {$/;"	function	line:1016
-.\37 u\28medium\29, .\37 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\28medium\\29, .\\37 u\\24\\28medium\\29 {$/;"	function	line:1022
-.\36 u\28medium\29, .\36 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\28medium\\29, .\\36 u\\24\\28medium\\29 {$/;"	function	line:1028
-.\35 u\28medium\29, .\35 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\28medium\\29, .\\35 u\\24\\28medium\\29 {$/;"	function	line:1034
-.\34 u\28medium\29, .\34 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\28medium\\29, .\\34 u\\24\\28medium\\29 {$/;"	function	line:1040
-.\33 u\28medium\29, .\33 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\28medium\\29, .\\33 u\\24\\28medium\\29 {$/;"	function	line:1046
-.\32 u\28medium\29, .\32 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\28medium\\29, .\\32 u\\24\\28medium\\29 {$/;"	function	line:1052
-.\31 u\28medium\29, .\31 u\24\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\28medium\\29, .\\31 u\\24\\28medium\\29 {$/;"	function	line:1058
-.\31 2u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\24\\28medium\\29 + *,$/;"	function	line:1064
-.\31 1u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\24\\28medium\\29 + *,$/;"	function	line:1065
-.\31 0u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\24\\28medium\\29 + *,$/;"	function	line:1066
-.\39 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\24\\28medium\\29 + *,$/;"	function	line:1067
-.\38 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\24\\28medium\\29 + *,$/;"	function	line:1068
-.\37 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\24\\28medium\\29 + *,$/;"	function	line:1069
-.\36 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\24\\28medium\\29 + *,$/;"	function	line:1070
-.\35 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\24\\28medium\\29 + *,$/;"	function	line:1071
-.\34 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\24\\28medium\\29 + *,$/;"	function	line:1072
-.\33 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\24\\28medium\\29 + *,$/;"	function	line:1073
-.\32 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\24\\28medium\\29 + *,$/;"	function	line:1074
-.\31 u\24\28medium\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\24\\28medium\\29 + * {$/;"	function	line:1075
-.\-11u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-11u\\28medium\\29 {$/;"	function	line:1079
-.\-10u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-10u\\28medium\\29 {$/;"	function	line:1083
-.\-9u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-9u\\28medium\\29 {$/;"	function	line:1087
-.\-8u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-8u\\28medium\\29 {$/;"	function	line:1091
-.\-7u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-7u\\28medium\\29 {$/;"	function	line:1095
-.\-6u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-6u\\28medium\\29 {$/;"	function	line:1099
-.\-5u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-5u\\28medium\\29 {$/;"	function	line:1103
-.\-4u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-4u\\28medium\\29 {$/;"	function	line:1107
-.\-3u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-3u\\28medium\\29 {$/;"	function	line:1111
-.\-2u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-2u\\28medium\\29 {$/;"	function	line:1115
-.\-1u\28medium\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-1u\\28medium\\29 {$/;"	function	line:1119
-@media screen and (max-width: 736px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 736px) {$/;"	function	line:1125
-.row > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row > * {$/;"	function	line:1127
-.row	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row {$/;"	function	line:1131
-.row.uniform > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform > * {$/;"	function	line:1135
-.row.uniform	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform {$/;"	function	line:1139
-.row.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 > * {$/;"	function	line:1143
-.row.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 {$/;"	function	line:1147
-.row.uniform.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 > * {$/;"	function	line:1151
-.row.uniform.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 {$/;"	function	line:1155
-.row.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 > * {$/;"	function	line:1159
-.row.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 {$/;"	function	line:1163
-.row.uniform.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 > * {$/;"	function	line:1167
-.row.uniform.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 {$/;"	function	line:1171
-.row.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 > * {$/;"	function	line:1175
-.row.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 {$/;"	function	line:1179
-.row.uniform.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 > * {$/;"	function	line:1183
-.row.uniform.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 {$/;"	function	line:1187
-.row.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 > * {$/;"	function	line:1191
-.row.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 {$/;"	function	line:1195
-.row.uniform.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 > * {$/;"	function	line:1199
-.row.uniform.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 {$/;"	function	line:1203
-.\31 2u\28small\29, .\31 2u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\28small\\29, .\\31 2u\\24\\28small\\29 {$/;"	function	line:1207
-.\31 1u\28small\29, .\31 1u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\28small\\29, .\\31 1u\\24\\28small\\29 {$/;"	function	line:1213
-.\31 0u\28small\29, .\31 0u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\28small\\29, .\\31 0u\\24\\28small\\29 {$/;"	function	line:1219
-.\39 u\28small\29, .\39 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\28small\\29, .\\39 u\\24\\28small\\29 {$/;"	function	line:1225
-.\38 u\28small\29, .\38 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\28small\\29, .\\38 u\\24\\28small\\29 {$/;"	function	line:1231
-.\37 u\28small\29, .\37 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\28small\\29, .\\37 u\\24\\28small\\29 {$/;"	function	line:1237
-.\36 u\28small\29, .\36 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\28small\\29, .\\36 u\\24\\28small\\29 {$/;"	function	line:1243
-.\35 u\28small\29, .\35 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\28small\\29, .\\35 u\\24\\28small\\29 {$/;"	function	line:1249
-.\34 u\28small\29, .\34 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\28small\\29, .\\34 u\\24\\28small\\29 {$/;"	function	line:1255
-.\33 u\28small\29, .\33 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\28small\\29, .\\33 u\\24\\28small\\29 {$/;"	function	line:1261
-.\32 u\28small\29, .\32 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\28small\\29, .\\32 u\\24\\28small\\29 {$/;"	function	line:1267
-.\31 u\28small\29, .\31 u\24\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\28small\\29, .\\31 u\\24\\28small\\29 {$/;"	function	line:1273
-.\31 2u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\24\\28small\\29 + *,$/;"	function	line:1279
-.\31 1u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\24\\28small\\29 + *,$/;"	function	line:1280
-.\31 0u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\24\\28small\\29 + *,$/;"	function	line:1281
-.\39 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\24\\28small\\29 + *,$/;"	function	line:1282
-.\38 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\24\\28small\\29 + *,$/;"	function	line:1283
-.\37 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\24\\28small\\29 + *,$/;"	function	line:1284
-.\36 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\24\\28small\\29 + *,$/;"	function	line:1285
-.\35 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\24\\28small\\29 + *,$/;"	function	line:1286
-.\34 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\24\\28small\\29 + *,$/;"	function	line:1287
-.\33 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\24\\28small\\29 + *,$/;"	function	line:1288
-.\32 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\24\\28small\\29 + *,$/;"	function	line:1289
-.\31 u\24\28small\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\24\\28small\\29 + * {$/;"	function	line:1290
-.\-11u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-11u\\28small\\29 {$/;"	function	line:1294
-.\-10u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-10u\\28small\\29 {$/;"	function	line:1298
-.\-9u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-9u\\28small\\29 {$/;"	function	line:1302
-.\-8u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-8u\\28small\\29 {$/;"	function	line:1306
-.\-7u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-7u\\28small\\29 {$/;"	function	line:1310
-.\-6u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-6u\\28small\\29 {$/;"	function	line:1314
-.\-5u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-5u\\28small\\29 {$/;"	function	line:1318
-.\-4u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-4u\\28small\\29 {$/;"	function	line:1322
-.\-3u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-3u\\28small\\29 {$/;"	function	line:1326
-.\-2u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-2u\\28small\\29 {$/;"	function	line:1330
-.\-1u\28small\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-1u\\28small\\29 {$/;"	function	line:1334
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 480px) {$/;"	function	line:1340
-.row > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row > * {$/;"	function	line:1342
-.row	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row {$/;"	function	line:1346
-.row.uniform > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform > * {$/;"	function	line:1350
-.row.uniform	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform {$/;"	function	line:1354
-.row.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 > * {$/;"	function	line:1358
-.row.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 00\\25 {$/;"	function	line:1362
-.row.uniform.\32 00\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 > * {$/;"	function	line:1366
-.row.uniform.\32 00\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 00\\25 {$/;"	function	line:1370
-.row.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 > * {$/;"	function	line:1374
-.row.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\31 50\\25 {$/;"	function	line:1378
-.row.uniform.\31 50\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 > * {$/;"	function	line:1382
-.row.uniform.\31 50\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\31 50\\25 {$/;"	function	line:1386
-.row.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 > * {$/;"	function	line:1390
-.row.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\35 0\\25 {$/;"	function	line:1394
-.row.uniform.\35 0\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 > * {$/;"	function	line:1398
-.row.uniform.\35 0\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\35 0\\25 {$/;"	function	line:1402
-.row.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 > * {$/;"	function	line:1406
-.row.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.\\32 5\\25 {$/;"	function	line:1410
-.row.uniform.\32 5\25 > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 > * {$/;"	function	line:1414
-.row.uniform.\32 5\25	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.row.uniform.\\32 5\\25 {$/;"	function	line:1418
-.\31 2u\28xsmall\29, .\31 2u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\28xsmall\\29, .\\31 2u\\24\\28xsmall\\29 {$/;"	function	line:1422
-.\31 1u\28xsmall\29, .\31 1u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\28xsmall\\29, .\\31 1u\\24\\28xsmall\\29 {$/;"	function	line:1428
-.\31 0u\28xsmall\29, .\31 0u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\28xsmall\\29, .\\31 0u\\24\\28xsmall\\29 {$/;"	function	line:1434
-.\39 u\28xsmall\29, .\39 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\28xsmall\\29, .\\39 u\\24\\28xsmall\\29 {$/;"	function	line:1440
-.\38 u\28xsmall\29, .\38 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\28xsmall\\29, .\\38 u\\24\\28xsmall\\29 {$/;"	function	line:1446
-.\37 u\28xsmall\29, .\37 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\28xsmall\\29, .\\37 u\\24\\28xsmall\\29 {$/;"	function	line:1452
-.\36 u\28xsmall\29, .\36 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\28xsmall\\29, .\\36 u\\24\\28xsmall\\29 {$/;"	function	line:1458
-.\35 u\28xsmall\29, .\35 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\28xsmall\\29, .\\35 u\\24\\28xsmall\\29 {$/;"	function	line:1464
-.\34 u\28xsmall\29, .\34 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\28xsmall\\29, .\\34 u\\24\\28xsmall\\29 {$/;"	function	line:1470
-.\33 u\28xsmall\29, .\33 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\28xsmall\\29, .\\33 u\\24\\28xsmall\\29 {$/;"	function	line:1476
-.\32 u\28xsmall\29, .\32 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\28xsmall\\29, .\\32 u\\24\\28xsmall\\29 {$/;"	function	line:1482
-.\31 u\28xsmall\29, .\31 u\24\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\28xsmall\\29, .\\31 u\\24\\28xsmall\\29 {$/;"	function	line:1488
-.\31 2u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 2u\\24\\28xsmall\\29 + *,$/;"	function	line:1494
-.\31 1u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 1u\\24\\28xsmall\\29 + *,$/;"	function	line:1495
-.\31 0u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 0u\\24\\28xsmall\\29 + *,$/;"	function	line:1496
-.\39 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\39 u\\24\\28xsmall\\29 + *,$/;"	function	line:1497
-.\38 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\38 u\\24\\28xsmall\\29 + *,$/;"	function	line:1498
-.\37 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\37 u\\24\\28xsmall\\29 + *,$/;"	function	line:1499
-.\36 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\36 u\\24\\28xsmall\\29 + *,$/;"	function	line:1500
-.\35 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\35 u\\24\\28xsmall\\29 + *,$/;"	function	line:1501
-.\34 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\34 u\\24\\28xsmall\\29 + *,$/;"	function	line:1502
-.\33 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\33 u\\24\\28xsmall\\29 + *,$/;"	function	line:1503
-.\32 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\32 u\\24\\28xsmall\\29 + *,$/;"	function	line:1504
-.\31 u\24\28xsmall\29 + *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\31 u\\24\\28xsmall\\29 + * {$/;"	function	line:1505
-.\-11u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-11u\\28xsmall\\29 {$/;"	function	line:1509
-.\-10u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-10u\\28xsmall\\29 {$/;"	function	line:1513
-.\-9u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-9u\\28xsmall\\29 {$/;"	function	line:1517
-.\-8u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-8u\\28xsmall\\29 {$/;"	function	line:1521
-.\-7u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-7u\\28xsmall\\29 {$/;"	function	line:1525
-.\-6u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-6u\\28xsmall\\29 {$/;"	function	line:1529
-.\-5u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-5u\\28xsmall\\29 {$/;"	function	line:1533
-.\-4u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-4u\\28xsmall\\29 {$/;"	function	line:1537
-.\-3u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-3u\\28xsmall\\29 {$/;"	function	line:1541
-.\-2u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-2u\\28xsmall\\29 {$/;"	function	line:1545
-.\-1u\28xsmall\29	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.\\-1u\\28xsmall\\29 {$/;"	function	line:1549
-@-ms-viewport	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@-ms-viewport {$/;"	function	line:1557
-body	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	body {$/;"	function	line:1561
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 480px) {$/;"	function	line:1565
-html, body	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		html, body {$/;"	function	line:1567
-body	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	body {$/;"	function	line:1573
-body.is-loading *, body.is-loading *:before, body.is-loading *:after	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		body.is-loading *, body.is-loading *:before, body.is-loading *:after {$/;"	function	line:1577
-body, input, select, textarea	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	body, input, select, textarea {$/;"	function	line:1590
-@media screen and (max-width: 1680px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 1680px) {$/;"	function	line:1598
-body, input, select, textarea	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			body, input, select, textarea {$/;"	function	line:1600
-@media screen and (max-width: 1280px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:1606
-body, input, select, textarea	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			body, input, select, textarea {$/;"	function	line:1608
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 980px) {$/;"	function	line:1614
-body, input, select, textarea	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			body, input, select, textarea {$/;"	function	line:1616
-@media screen and (max-width: 736px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:1622
-body, input, select, textarea	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			body, input, select, textarea {$/;"	function	line:1624
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:1630
-body, input, select, textarea	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			body, input, select, textarea {$/;"	function	line:1632
-a	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		a {$/;"	function	line:1638
-a:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		a:hover {$/;"	function	line:1643
-p a:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		p a:hover{$/;"	function	line:1648
-strong, b	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	strong, b {$/;"	function	line:1653
-em, i	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	em, i {$/;"	function	line:1658
-p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	p {$/;"	function	line:1662
-h1, h2, h3, h4, h5, h6	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	h1, h2, h3, h4, h5, h6 {$/;"	function	line:1666
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, p a	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, p a {$/;"	function	line:1673
-h2	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	h2 {$/;"	function	line:1678
-h3	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	h3 {$/;"	function	line:1683
-h4	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	h4 {$/;"	function	line:1687
-h5	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	h5 {$/;"	function	line:1691
-h6	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	h6 {$/;"	function	line:1695
-sub	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	sub {$/;"	function	line:1699
-sup	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	sup {$/;"	function	line:1705
-blockquote	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	blockquote {$/;"	function	line:1711
-code	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	code {$/;"	function	line:1718
-pre	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	pre {$/;"	function	line:1728
-pre code	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		pre code {$/;"	function	line:1735
-hr	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	hr {$/;"	function	line:1742
-hr.major	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		hr.major {$/;"	function	line:1748
-.align-left	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.align-left {$/;"	function	line:1752
-.align-center	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.align-center {$/;"	function	line:1756
-.align-right	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.align-right {$/;"	function	line:1760
-.inner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.inner {$/;"	function	line:1764
-@media screen and (max-width: 1280px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:1769
-.inner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.inner {$/;"	function	line:1771
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:1777
-.inner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.inner {$/;"	function	line:1779
-section.special, article.special	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	section.special, article.special {$/;"	function	line:1787
-section.special article, article.special article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		section.special article, article.special article {$/;"	function	line:1791
-section.wrapper, article.wrapper	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	section.wrapper, article.wrapper {$/;"	function	line:1795
-section.wrapper header, article.wrapper header	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		section.wrapper header, article.wrapper header {$/;"	function	line:1799
-section.wrapper header h2, article.wrapper header h2	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			section.wrapper header h2, article.wrapper header h2 {$/;"	function	line:1803
-section.wrapper header p, article.wrapper header p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			section.wrapper header p, article.wrapper header p {$/;"	function	line:1808
-section.wrapper article header, article.wrapper article header	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		section.wrapper article header, article.wrapper article header {$/;"	function	line:1812
-section.wrapper.style1, article.wrapper.style1	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		section.wrapper.style1, article.wrapper.style1 {$/;"	function	line:1816
-section.wrapper.style1 header h2, article.wrapper.style1 header h2	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			section.wrapper.style1 header h2, article.wrapper.style1 header h2 {$/;"	function	line:1821
-section.wrapper.style1 header p, article.wrapper.style1 header p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			section.wrapper.style1 header p, article.wrapper.style1 header p {$/;"	function	line:1825
-section.wrapper.style1 h3, article.wrapper.style1 h3	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			section.wrapper.style1 h3, article.wrapper.style1 h3 {$/;"	function	line:1829
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 980px) {$/;"	function	line:1833
-section.wrapper, article.wrapper	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			section.wrapper, article.wrapper {$/;"	function	line:1835
-@media screen and (max-width: 736px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:1841
-section.wrapper header, article.wrapper header	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			section.wrapper header, article.wrapper header {$/;"	function	line:1843
-section.wrapper header h2, article.wrapper header h2	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				section.wrapper header h2, article.wrapper header h2 {$/;"	function	line:1847
-section.wrapper header p, article.wrapper header p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				section.wrapper header p, article.wrapper header p {$/;"	function	line:1851
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:1857
-section.wrapper, article.wrapper	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			section.wrapper, article.wrapper {$/;"	function	line:1859
-section.wrapper article, article.wrapper article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				section.wrapper article, article.wrapper article {$/;"	function	line:1863
-header p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	header p {$/;"	function	line:1869
-header h2 + p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	header h2 + p {$/;"	function	line:1875
-header h3 + p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	header h3 + p {$/;"	function	line:1880
-header h4 + p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	header h4 + p,$/;"	function	line:1885
-header h5 + p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	header h5 + p,$/;"	function	line:1886
-header h6 + p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	header h6 + p {$/;"	function	line:1887
-.flex	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.flex {$/;"	function	line:1894
-.flex.flex-1 article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.flex.flex-1 article {$/;"	function	line:1912
-.flex.flex-2 article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.flex.flex-2 article {$/;"	function	line:1920
-.flex.flex-3 article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.flex.flex-3 article {$/;"	function	line:1924
-.flex.flex-3 article:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.flex.flex-3 article:before {$/;"	function	line:1929
-.flex.flex-3 article:last-child:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.flex.flex-3 article:last-child:before {$/;"	function	line:1940
-.flex.flex-3::after	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.flex.flex-3::after {$/;"	function	line:1944
-.flex.flex-4 .box	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.flex.flex-4 .box {$/;"	function	line:1949
-.flex.flex-4::after	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.flex.flex-4::after {$/;"	function	line:1953
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 980px) {$/;"	function	line:1962
-.flex.flex-2 article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.flex.flex-2 article {$/;"	function	line:1964
-.flex.flex-2 article:last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				.flex.flex-2 article:last-child {$/;"	function	line:1969
-.flex.flex-3	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.flex.flex-3 {$/;"	function	line:1973
-.flex.flex-3 article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				.flex.flex-3 article {$/;"	function	line:1980
-.flex.flex-3 article:last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^					.flex.flex-3 article:last-child {$/;"	function	line:1987
-.flex.flex-3 article:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^					.flex.flex-3 article:before {$/;"	function	line:1993
-.flex.flex-4 .box	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.flex.flex-4 .box {$/;"	function	line:1997
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:2003
-.flex.flex-4 .box	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.flex.flex-4 .box {$/;"	function	line:2005
-form	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	form {$/;"	function	line:2013
-label	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	label {$/;"	function	line:2017
-input[type="text"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="text"],$/;"	function	line:2025
-input[type="password"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="password"],$/;"	function	line:2026
-input[type="email"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="email"],$/;"	function	line:2027
-input[type="tel"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="tel"],$/;"	function	line:2028
-select	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	select,$/;"	function	line:2029
-textarea	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	textarea {$/;"	function	line:2030
-input[type="text"]:invalid	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="text"]:invalid,$/;"	function	line:2047
-input[type="password"]:invalid	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="password"]:invalid,$/;"	function	line:2048
-input[type="email"]:invalid	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="email"]:invalid,$/;"	function	line:2049
-input[type="tel"]:invalid	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="tel"]:invalid,$/;"	function	line:2050
-select:invalid	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		select:invalid,$/;"	function	line:2051
-textarea:invalid	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		textarea:invalid {$/;"	function	line:2052
-input[type="text"]:focus	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="text"]:focus,$/;"	function	line:2056
-input[type="password"]:focus	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="password"]:focus,$/;"	function	line:2057
-input[type="email"]:focus	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="email"]:focus,$/;"	function	line:2058
-input[type="tel"]:focus	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="tel"]:focus,$/;"	function	line:2059
-select:focus	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		select:focus,$/;"	function	line:2060
-textarea:focus	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		textarea:focus {$/;"	function	line:2061
-.select-wrapper	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.select-wrapper {$/;"	function	line:2066
-.select-wrapper:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.select-wrapper:before {$/;"	function	line:2072
-.select-wrapper:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.select-wrapper:before {$/;"	function	line:2082
-.select-wrapper select::-ms-expand	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.select-wrapper select::-ms-expand {$/;"	function	line:2095
-input[type="text"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="text"],$/;"	function	line:2099
-input[type="password"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="password"],$/;"	function	line:2100
-input[type="email"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="email"],$/;"	function	line:2101
-select	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	select {$/;"	function	line:2102
-textarea	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	textarea {$/;"	function	line:2106
-input[type="checkbox"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="checkbox"],$/;"	function	line:2110
-input[type="radio"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="radio"] {$/;"	function	line:2111
-input[type="checkbox"] + label	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="checkbox"] + label,$/;"	function	line:2124
-input[type="radio"] + label	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="radio"] + label {$/;"	function	line:2125
-input[type="checkbox"] + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="checkbox"] + label:before,$/;"	function	line:2137
-input[type="radio"] + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="radio"] + label:before {$/;"	function	line:2138
-input[type="checkbox"] + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="checkbox"] + label:before,$/;"	function	line:2147
-input[type="radio"] + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="radio"] + label:before {$/;"	function	line:2148
-input[type="checkbox"]:checked + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="checkbox"]:checked + label:before,$/;"	function	line:2163
-input[type="radio"]:checked + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="radio"]:checked + label:before {$/;"	function	line:2164
-input[type="checkbox"]:focus + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="checkbox"]:focus + label:before,$/;"	function	line:2171
-input[type="radio"]:focus + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="radio"]:focus + label:before {$/;"	function	line:2172
-input[type="checkbox"] + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="checkbox"] + label:before {$/;"	function	line:2177
-input[type="radio"] + label:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="radio"] + label:before {$/;"	function	line:2181
-::-webkit-input-placeholder	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	::-webkit-input-placeholder {$/;"	function	line:2185
-:-moz-placeholder	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	:-moz-placeholder {$/;"	function	line:2190
-::-moz-placeholder	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	::-moz-placeholder {$/;"	function	line:2195
-:-ms-input-placeholder	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	:-ms-input-placeholder {$/;"	function	line:2200
-.formerize-placeholder	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.formerize-placeholder {$/;"	function	line:2205
-.box	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.box {$/;"	function	line:2212
-.box > :last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.box > :last-child,$/;"	function	line:2218
-.box > :last-child > :last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.box > :last-child > :last-child,$/;"	function	line:2219
-.box > :last-child > :last-child > :last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.box > :last-child > :last-child > :last-child {$/;"	function	line:2220
-.box.alt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.box.alt {$/;"	function	line:2224
-.box.person	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.box.person {$/;"	function	line:2230
-.box.person h3	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.box.person h3 {$/;"	function	line:2235
-.box.person p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.box.person p {$/;"	function	line:2239
-.box.person .image	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.box.person .image {$/;"	function	line:2243
-.box.person .image img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				.box.person .image img {$/;"	function	line:2247
-.icon	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.icon {$/;"	function	line:2253
-.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.icon:before {$/;"	function	line:2259
-.icon > .label	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.icon > .label {$/;"	function	line:2271
-.image	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.image {$/;"	function	line:2278
-.image img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image img {$/;"	function	line:2285
-.image.left, .image.right	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image.left, .image.right {$/;"	function	line:2290
-.image.article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image.article {$/;"	function	line:2293
-.image.left img, .image.right img, .image.article img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.image.left img, .image.right img, .image.article img {$/;"	function	line:2299
-.image.article img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.image.article img {$/;"	function	line:2303
-.image.round img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image.round img {$/;"	function	line:2309
-.image.left	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image.left {$/;"	function	line:2313
-.image.article	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image.article {$/;"	function	line:2319
-.image.right	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image.right {$/;"	function	line:2325
-.image.fit	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image.fit {$/;"	function	line:2331
-.image.fit img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.image.fit img {$/;"	function	line:2337
-.image.main	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.image.main {$/;"	function	line:2341
-.image.main img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.image.main img {$/;"	function	line:2347
-ol	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	ol {$/;"	function	line:2353
-ol li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		ol li {$/;"	function	line:2359
-ul	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	ul {$/;"	function	line:2363
-ul p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	ul p {$/;"	function	line:2369
-ul h4	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	ul h4 {$/;"	function	line:2373
-ul li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		ul li {$/;"	function	line:2377
-ul.alt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		ul.alt {$/;"	function	line:2381
-ul.alt li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			ul.alt li {$/;"	function	line:2386
-ul.alt li:first-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.alt li:first-child {$/;"	function	line:2391
-ul.icons	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		ul.icons {$/;"	function	line:2396
-ul.icons li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			ul.icons li {$/;"	function	line:2402
-ul.icons li:last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.icons li:last-child {$/;"	function	line:2407
-ul.icons li .icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.icons li .icon:before {$/;"	function	line:2411
-ul.icons2	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		ul.icons2 {$/;"	function	line:2414
-ul.icons2 li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			ul.icons2 li {$/;"	function	line:2420
-ul.icons2 li:last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.icons2 li:last-child {$/;"	function	line:2425
-ul.icons2 li .icon2:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.icons2 li .icon2:before {$/;"	function	line:2429
-ul.actions	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		ul.actions {$/;"	function	line:2433
-ul.actions li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			ul.actions li {$/;"	function	line:2439
-ul.actions li:last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.actions li:last-child {$/;"	function	line:2445
-ul.actions.small li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			ul.actions.small li {$/;"	function	line:2449
-ul.actions.vertical li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			ul.actions.vertical li {$/;"	function	line:2453
-ul.actions.vertical li:first-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.actions.vertical li:first-child {$/;"	function	line:2458
-ul.actions.vertical li > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.actions.vertical li > * {$/;"	function	line:2462
-ul.actions.vertical.small li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			ul.actions.vertical.small li {$/;"	function	line:2466
-ul.actions.vertical.small li:first-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.actions.vertical.small li:first-child {$/;"	function	line:2470
-ul.actions.fit	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			ul.actions.fit {$/;"	function	line:2474
-ul.actions.fit li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.actions.fit li {$/;"	function	line:2482
-ul.actions.fit li > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^					ul.actions.fit li > * {$/;"	function	line:2487
-ul.actions.fit.small	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.actions.fit.small {$/;"	function	line:2491
-ul.actions.fit.small li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^					ul.actions.fit.small li {$/;"	function	line:2496
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			@media screen and (max-width: 480px) {$/;"	function	line:2501
-ul.actions	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				ul.actions {$/;"	function	line:2503
-ul.actions li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^					ul.actions li {$/;"	function	line:2507
-ul.actions li:first-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^						ul.actions li:first-child {$/;"	function	line:2514
-ul.actions li > *	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^						ul.actions li > * {$/;"	function	line:2518
-ul.actions li > *.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^							ul.actions li > *.icon:before {$/;"	function	line:2523
-ul.actions.small li	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^					ul.actions.small li {$/;"	function	line:2527
-ul.actions.small li:first-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^						ul.actions.small li:first-child {$/;"	function	line:2531
-dl	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	dl {$/;"	function	line:2537
-dl dt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		dl dt {$/;"	function	line:2541
-dl dd	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		dl dd {$/;"	function	line:2547
-.table-wrapper	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.table-wrapper {$/;"	function	line:2553
-table	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	table {$/;"	function	line:2558
-table tbody tr	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		table tbody tr {$/;"	function	line:2563
-table tbody tr:nth-child(2n + 1)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			table tbody tr:nth-child(2n + 1) {$/;"	function	line:2569
-table td	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		table td {$/;"	function	line:2573
-table th	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		table th {$/;"	function	line:2577
-table thead	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		table thead {$/;"	function	line:2585
-table tfoot	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		table tfoot {$/;"	function	line:2589
-table.alt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		table.alt {$/;"	function	line:2593
-table.alt tbody tr td	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			table.alt tbody tr td {$/;"	function	line:2597
-table.alt tbody tr td:first-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				table.alt tbody tr td:first-child {$/;"	function	line:2603
-table.alt tbody tr:first-child td	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			table.alt tbody tr:first-child td {$/;"	function	line:2607
-table.alt thead	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			table.alt thead {$/;"	function	line:2611
-table.alt tfoot	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			table.alt tfoot {$/;"	function	line:2615
-input[type="submit"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="submit"],$/;"	function	line:2621
-input[type="reset"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="reset"],$/;"	function	line:2622
-input[type="button"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	input[type="button"],$/;"	function	line:2623
-button	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	button,$/;"	function	line:2624
-.button	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.button {$/;"	function	line:2625
-input[type="submit"]:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"]:hover,$/;"	function	line:2649
-input[type="reset"]:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"]:hover,$/;"	function	line:2650
-input[type="button"]:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"]:hover,$/;"	function	line:2651
-button:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button:hover,$/;"	function	line:2652
-.button:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button:hover {$/;"	function	line:2653
-input[type="submit"]:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"]:active,$/;"	function	line:2657
-input[type="reset"]:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"]:active,$/;"	function	line:2658
-input[type="button"]:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"]:active,$/;"	function	line:2659
-button:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button:active,$/;"	function	line:2660
-.button:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button:active {$/;"	function	line:2661
-input[type="submit"].icon	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"].icon,$/;"	function	line:2665
-input[type="reset"].icon	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"].icon,$/;"	function	line:2666
-input[type="button"].icon	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"].icon,$/;"	function	line:2667
-button.icon	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button.icon,$/;"	function	line:2668
-.button.icon	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button.icon {$/;"	function	line:2669
-input[type="submit"].icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="submit"].icon:before,$/;"	function	line:2673
-input[type="reset"].icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="reset"].icon:before,$/;"	function	line:2674
-input[type="button"].icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="button"].icon:before,$/;"	function	line:2675
-button.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			button.icon:before,$/;"	function	line:2676
-.button.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.button.icon:before {$/;"	function	line:2677
-input[type="submit"].fit	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"].fit,$/;"	function	line:2681
-input[type="reset"].fit	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"].fit,$/;"	function	line:2682
-input[type="button"].fit	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"].fit,$/;"	function	line:2683
-button.fit	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button.fit,$/;"	function	line:2684
-.button.fit	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button.fit {$/;"	function	line:2685
-input[type="submit"].small	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"].small,$/;"	function	line:2691
-input[type="reset"].small	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"].small,$/;"	function	line:2692
-input[type="button"].small	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"].small,$/;"	function	line:2693
-button.small	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button.small,$/;"	function	line:2694
-.button.small	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button.small {$/;"	function	line:2695
-input[type="submit"].big	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"].big,$/;"	function	line:2699
-input[type="reset"].big	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"].big,$/;"	function	line:2700
-input[type="button"].big	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"].big,$/;"	function	line:2701
-button.big	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button.big,$/;"	function	line:2702
-.button.big	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button.big {$/;"	function	line:2703
-input[type="submit"].alt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"].alt,$/;"	function	line:2707
-input[type="reset"].alt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"].alt,$/;"	function	line:2708
-input[type="button"].alt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"].alt,$/;"	function	line:2709
-button.alt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button.alt,$/;"	function	line:2710
-.button.alt	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button.alt {$/;"	function	line:2711
-input[type="submit"].alt:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="submit"].alt:hover,$/;"	function	line:2717
-input[type="reset"].alt:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="reset"].alt:hover,$/;"	function	line:2718
-input[type="button"].alt:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="button"].alt:hover,$/;"	function	line:2719
-button.alt:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			button.alt:hover,$/;"	function	line:2720
-.button.alt:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.button.alt:hover {$/;"	function	line:2721
-input[type="submit"].alt:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="submit"].alt:active,$/;"	function	line:2725
-input[type="reset"].alt:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="reset"].alt:active,$/;"	function	line:2726
-input[type="button"].alt:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="button"].alt:active,$/;"	function	line:2727
-button.alt:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			button.alt:active,$/;"	function	line:2728
-.button.alt:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.button.alt:active {$/;"	function	line:2729
-input[type="submit"].alt.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="submit"].alt.icon:before,$/;"	function	line:2733
-input[type="reset"].alt.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="reset"].alt.icon:before,$/;"	function	line:2734
-input[type="button"].alt.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="button"].alt.icon:before,$/;"	function	line:2735
-button.alt.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			button.alt.icon:before,$/;"	function	line:2736
-.button.alt.icon:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.button.alt.icon:before {$/;"	function	line:2737
-input[type="submit"].special	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"].special,$/;"	function	line:2741
-input[type="reset"].special	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"].special,$/;"	function	line:2742
-input[type="button"].special	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"].special,$/;"	function	line:2743
-button.special	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button.special,$/;"	function	line:2744
-.button.special	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button.special {$/;"	function	line:2745
-input[type="submit"].special:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="submit"].special:hover,$/;"	function	line:2750
-input[type="reset"].special:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="reset"].special:hover,$/;"	function	line:2751
-input[type="button"].special:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="button"].special:hover,$/;"	function	line:2752
-button.special:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			button.special:hover,$/;"	function	line:2753
-.button.special:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.button.special:hover {$/;"	function	line:2754
-input[type="submit"].special:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="submit"].special:active,$/;"	function	line:2758
-input[type="reset"].special:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="reset"].special:active,$/;"	function	line:2759
-input[type="button"].special:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="button"].special:active,$/;"	function	line:2760
-button.special:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			button.special:active,$/;"	function	line:2761
-.button.special:active	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.button.special:active {$/;"	function	line:2762
-input[type="submit"].disabled, input[type="submit"]:disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="submit"].disabled, input[type="submit"]:disabled,$/;"	function	line:2766
-input[type="reset"].disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"].disabled,$/;"	function	line:2767
-input[type="reset"]:disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="reset"]:disabled,$/;"	function	line:2768
-input[type="button"].disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"].disabled,$/;"	function	line:2769
-input[type="button"]:disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		input[type="button"]:disabled,$/;"	function	line:2770
-button.disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button.disabled,$/;"	function	line:2771
-button:disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		button:disabled,$/;"	function	line:2772
-.button.disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button.disabled,$/;"	function	line:2773
-.button:disabled	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.button:disabled {$/;"	function	line:2774
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:2782
-input[type="submit"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="submit"],$/;"	function	line:2784
-input[type="reset"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="reset"],$/;"	function	line:2785
-input[type="button"]	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			input[type="button"],$/;"	function	line:2786
-button	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			button,$/;"	function	line:2787
-.button	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			.button {$/;"	function	line:2788
-.subpage	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	.subpage {$/;"	function	line:2797
-.subpage #header	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		.subpage #header {$/;"	function	line:2801
-#header	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	#header {$/;"	function	line:2809
-#header .inner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#header .inner {$/;"	function	line:2822
-#header .logo	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#header .logo {$/;"	function	line:2827
-#header a	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#header a {$/;"	function	line:2841
-#header a:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#header a:hover {$/;"	function	line:2853
-#header a:last-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#header a:last-child {$/;"	function	line:2857
-#header a.navPanelToggle	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#header a.navPanelToggle {$/;"	function	line:2861
-#header a.navPanelToggle .fa	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				#header a.navPanelToggle .fa {$/;"	function	line:2869
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				@media screen and (max-width: 980px) {$/;"	function	line:2873
-#header a.navPanelToggle	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^					#header a.navPanelToggle {$/;"	function	line:2875
-@media screen and (max-width: 736px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			@media screen and (max-width: 736px) {$/;"	function	line:2881
-#header a	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				#header a {$/;"	function	line:2883
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 980px) {$/;"	function	line:2889
-#header	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#header {$/;"	function	line:2891
-@media screen and (max-width: 736px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 736px) {$/;"	function	line:2899
-#header	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#header {$/;"	function	line:2901
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 480px) {$/;"	function	line:2907
-#header	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#header {$/;"	function	line:2909
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 980px) {$/;"	function	line:2918
-#nav	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#nav {$/;"	function	line:2920
-#navPanel	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	#navPanel {$/;"	function	line:2926
-#navPanel.visible	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#navPanel.visible {$/;"	function	line:2950
-#navPanel a:not(.close)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#navPanel a:not(.close) {$/;"	function	line:2959
-#navPanel a:not(.close):first-child	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#navPanel a:not(.close):first-child {$/;"	function	line:2969
-#navPanel .close	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#navPanel .close {$/;"	function	line:2973
-#navPanel .close:before	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#navPanel .close:before {$/;"	function	line:2994
-#navPanel .close:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#navPanel .close:hover {$/;"	function	line:3012
-#banner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	#banner {$/;"	function	line:3018
-#banner h1	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#banner h1 {$/;"	function	line:3029
-#banner p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#banner p {$/;"	function	line:3038
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {$/;"	function	line:3044
-#banner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#banner {$/;"	function	line:3046
-@media screen and (max-width: 1280px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:3052
-#banner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#banner {$/;"	function	line:3054
-@media screen and (max-width: 980px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 980px) {$/;"	function	line:3060
-#banner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#banner {$/;"	function	line:3062
-@media screen and (max-width: 736px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:3068
-#banner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#banner {$/;"	function	line:3070
-#banner h1	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				#banner h1 {$/;"	function	line:3074
-#banner p	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^				#banner p {$/;"	function	line:3078
-@media screen and (max-width: 480px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:3084
-#banner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#banner {$/;"	function	line:3086
-#top-area	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^#top-area {$/;"	function	line:3094
-img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^img {$/;"	function	line:3102
-#slideshow:after	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^#slideshow:after {$/;"	function	line:3107
-#slideshow img	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^#slideshow img {$/;"	function	line:3114
-#wrap	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^#wrap{$/;"	function	line:3119
-#wrap img.bgfade	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^#wrap img.bgfade{$/;"	function	line:3126
-#footer .inner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	#footer .inner {$/;"	function	line:3137
-#footer .copyright	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	#footer .copyright {$/;"	function	line:3142
-#footer .copyright a	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#footer .copyright a {$/;"	function	line:3149
-#footer .copyright a:hover	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^			#footer .copyright a:hover {$/;"	function	line:3154
-#footer ul.icons li .icon	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	#footer ul.icons li .icon {$/;"	function	line:3159
-@media screen and (max-width: 736px)	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^	@media screen and (max-width: 736px) {$/;"	function	line:3163
-#footer .inner	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#footer .inner {$/;"	function	line:3165
-#footer .copyright	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#footer .copyright {$/;"	function	line:3169
-#footer ul	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#footer ul {$/;"	function	line:3177
-#footer .flex	/home/edvardst/Documents/NTNU/Nettside/assets/css/main.css	/^		#footer .flex {$/;"	function	line:3185
+html	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^<html>$/;"	function	line:4
+head	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^<head>$/;"	function	line:6
+meta	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <meta http-equiv="content-type" content="text\/html; charset=utf-8">$/;"	function	line:7
+title	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <title>Teaching<\/title>$/;"	function	line:8
+meta	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:9
+link	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <link rel="stylesheet" href="assets\/css\/main.css">$/;"	function	line:10
+script	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.11.3\/jquery.min.js"><\/script>$/;"	function	line:11
+script	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <script src="js\/script.js"><\/script>$/;"	function	line:12
+body	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^<body>$/;"	function	line:15
+header	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <header id="header">$/;"	function	line:17
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^        <div class="inner"> <a href="index.html" class="logo">Soft and Complex$/;"	function	line:18
+nav	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <nav id="nav"> <a href="index.html">Home<\/a> <a href="people.html">People<\/a>$/;"	function	line:20
+a	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <a href="publications.html">Publications<\/a><a href="events.html">Events<\/a><a href="collaboration.html">Collaboration<\/a>$/;"	function	line:21
+a	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"><\/span><\/a>$/;"	function	line:23
+section	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <section id="banner">$/;"	function	line:27
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^        <h1>Teaching &amp; Supervision<\/h1>$/;"	function	line:28
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^        <p>A list of courses lectured by the group and avalibe master and PhD projects<\/p>$/;"	function	line:29
+section	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <section id="one" class="wrapper">$/;"	function	line:32
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^        <div class="inner">$/;"	function	line:33
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <div class="flex flex-3">$/;"	function	line:34
+article	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <article>$/;"	function	line:35
+header	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <header>$/;"	function	line:36
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                        <h3>Courses<\/h3>$/;"	function	line:37
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <p>A complete list of courses organized by the group. The courses at relevant for master students and higer level.<\/p>$/;"	function	line:39
+footer	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <footer> <a href="#two" class="button special">More<\/a> <\/footer>$/;"	function	line:40
+article	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <article>$/;"	function	line:42
+header	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <header>$/;"	function	line:43
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                        <h3>MSc student projects<\/h3>$/;"	function	line:44
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <p>A breif introduction to nano- and micro-fluidics. The characteristics and the differences<\/p>$/;"	function	line:46
+footer	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <footer> <a href="#three" class="button special">More<\/a> <\/footer>$/;"	function	line:47
+article	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <article>$/;"	function	line:49
+header	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <header>$/;"	function	line:50
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                        <h3>PhD projects<\/h3>$/;"	function	line:51
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <p>An overveiw of all collaborators of the Laboratory for Soft and Complex Matter Studies<\/p>$/;"	function	line:53
+footer	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                    <footer> <a href="#four" class="button special">More<\/a> <\/footer>$/;"	function	line:54
+section	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <section id="two" class="wrapper style1">$/;"	function	line:60
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^        <div class="inner">$/;"	function	line:61
+header	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <header>$/;"	function	line:62
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <h2>Courses<\/h2>$/;"	function	line:63
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="https:\/\/www.ntnu.edu\/studies\/courses\/FY8203#tab=omEmnet" target="new">FY8203 Soft Matter Physics<\/a><\/h4>$/;"	function	line:66
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> Bi-annual PhD course given every 2nd sprig semester (by Profs. J.O. Fossum, P. Dommersnes and K.D. Knudsen). 7.5 ECTS. <\/p>$/;"	function	line:67
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="https:\/\/www.ntnu.edu\/studies\/courses\/FY8910\/2014#tab=omEmnet" target="new">FY8910 - Nonlinear Dynamics<\/a><\/h4>$/;"	function	line:69
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> Annual PhD course given every fall semester (by Prof. J.O. Fossum). 7.5 ECTS. <\/p>$/;"	function	line:70
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="https:\/\/www.ntnu.edu\/studies\/courses\/FY8912#tab=omEmnet" target="new">FY8912 - Functional Materials<\/a><\/h4>$/;"	function	line:72
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> Annual PhD course given every spring semester (by Prof. S. Raaen). 7.5 ECTS. <\/p>$/;"	function	line:73
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="http:\/\/www.ntnu.no\/eit\/tfy4852" target="new">TFY4852: Experts in Teamwork (EiT) - “Soft Technologies” <\/a><\/h4>$/;"	function	line:75
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> Development and execution of new Experts in Teamwork (EiT) MSc course. 3 weeks intensive course given every January (by Profs. J.O. Fossum and P. Dommersnes). 7.5 ECTS. <\/p>$/;"	function	line:76
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="https:\/\/www.ntnu.edu\/studies\/courses\/TFY4305#tab=omEmnet" target="new">TFY4305 - Nonlinear Dynamics<\/a><\/h4>$/;"	function	line:79
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> Annual MSc course given every fall semester (by Prof. J.O. Fossum). 7.5 ECTS. <\/p>$/;"	function	line:80
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="http:\/\/www.ntnu.edu\/studies\/courses\/TFY4515\/2012#tab=omEmnet" target="new">TFY11: MSc Specialization course: Light, Neutron and X-Ray Scattering<\/a><\/h4>$/;"	function	line:82
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> Annual MSc course given every fall$/;"	function	line:83
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="https:\/\/www.ntnu.edu\/studies\/courses\/TFY4190#tab=omEmnet" target="new">TFY4190 - Instrumentation<\/a><\/h4>$/;"	function	line:86
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> Annual MSc course given every fall semester (by Prof. S. Raaen). 7.5 ECTS. <\/p>$/;"	function	line:87
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="https:\/\/www.ntnu.edu\/studies\/courses\/FY3114#tab=omEmnet" target="new">FY3114 - Functional Materials<\/a><\/h4>$/;"	function	line:89
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> Annual MSc course given every spring semester (by Prof. S. Raaen). 7.5 ECTS. <\/p>$/;"	function	line:90
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <h4> <a href="http:\/\/www.ife.no\/en\/ife\/departments\/physics\/projects\/geilo" target="new">Bi-annual Geilo PhD School<\/a><\/h4>$/;"	function	line:93
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p class="teaching-text"> The group is together with the Physics Department at IFE, Kjeller organizer of the bi-annual Geilo PhD School.$/;"	function	line:94
+section	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <section id="three" class="wrapper">$/;"	function	line:102
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^        <div class="inner">$/;"	function	line:103
+header	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <header>$/;"	function	line:104
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <h2>MSc student projects<\/h2>$/;"	function	line:105
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p> We search 3-5 Master student candidates who are motivated and wish to do curiosity driven projects or thesis experimental or theoretical research in our laboratory. <\/p>$/;"	function	line:107
+embed	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <embed src="pdf_files\/MScprojectsSoftandComplexMatter.pdf" width="850px" height="1200px" \/>$/;"	function	line:108
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p>In some of the activities, there are possibilities for national or international collaborations, including possibilities for longer stays, for example in performing synchrotron X-ray and\/or neutron experiments at international$/;"	function	line:112
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p>Our scientific collaborators for possible MSc projects, including their home laboratories are located in:<\/p>$/;"	function	line:115
+ul	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <ul>$/;"	function	line:117
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Norway (IRIS-Stavanger, IFE-Kjeller, University of Oslo)<\/li>$/;"	function	line:118
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>France (Paris, Rennes)<\/li>$/;"	function	line:119
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Brazil (Rio de Janeiro, Sao Paulo, Recife, Brasilia, Campinas)<\/li>$/;"	function	line:120
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>South-Korea (KAIST-Daejon, Gwangju)<\/li>$/;"	function	line:121
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Denmark (Copenhagen, DTU-Lyngby)<\/li>$/;"	function	line:122
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Cuba (Havana)<\/li>$/;"	function	line:123
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Finland (Aalto)<\/li>$/;"	function	line:124
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Portugal (Lisboa) <\/li>$/;"	function	line:125
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Germany (Bayreuth)<\/li>$/;"	function	line:126
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Czech Republic (Prague, Liberec)<\/li>$/;"	function	line:127
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>The Netherlands (Amsterdam, Groeningen)<\/li>$/;"	function	line:128
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>UK (Cambridge, Oxford, Manchester)<\/li>$/;"	function	line:129
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Sweden (Lund, Uppsala, Gothenburg)<\/li>$/;"	function	line:130
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>USA (Harvard, MIT, Indiana, Florida, New Mexico, Texas)<\/li>$/;"	function	line:131
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Italy (Rome)<\/li>$/;"	function	line:132
+li	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <li>Japan (Tokyo)<\/li>$/;"	function	line:133
+section	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <section id="four" class="wrapper">$/;"	function	line:141
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^        <div class="inner">$/;"	function	line:142
+header	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <header>$/;"	function	line:143
+h	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <h2>PhD projects<\/h2>$/;"	function	line:144
+p	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <p> What to write here? <\/p>$/;"	function	line:146
+footer	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <footer id="footer">$/;"	function	line:152
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^        <div class="inner">$/;"	function	line:153
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^            <div class="flex">$/;"	function	line:154
+div	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <div class="copyright"> © Labiratory for Soft and Complex Matter Studies. Design: <a href="https:\/\/templated.co">TEMPLATED<\/a><\/div>$/;"	function	line:155
+ul	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^                <ul class="icons">$/;"	function	line:156
+script	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <script src="assets\/js\/jquery.min.js"><\/script>$/;"	function	line:163
+script	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <script src="assets\/js\/skel.min.js"><\/script>$/;"	function	line:164
+script	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <script src="assets\/js\/util.js"><\/script>$/;"	function	line:165
+script	/home/edvardst/Documents/NTNU/Nettside/teaching.html	/^    <script src="assets\/js\/main.js"><\/script>$/;"	function	line:166

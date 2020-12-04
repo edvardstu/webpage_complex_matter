@@ -1675,6 +1675,11 @@
 			text-decoration: none;
 		}
 
+	h1 {
+		font-size: 2.15em;
+		font-weight: 100;
+	}
+
 	h2 {
 		font-size: 1.75em;
 		font-weight: 100;
@@ -1828,6 +1833,11 @@
 
 			section.wrapper.style1 h3, article.wrapper.style1 h3 {
 				color: #FFF;
+			}
+
+			section.wrapper.style1 h4, article.wrapper.style1 h4 {
+				color: #FFF;
+				margin: 0 0 0 0;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -2366,6 +2376,12 @@
 		padding-left: 1em;
 	}
 
+	ul ul {
+		list-style: circle;
+		margin: 0 0 0em 0;
+		padding-left: 1em;
+	}
+
 	ul p {
 		margin: 0 0 0 0;
 	}
@@ -2377,6 +2393,7 @@
 		ul li {
 			padding-left: 0.5em;
 		}
+
 
 		ul.alt {
 			list-style: none;
