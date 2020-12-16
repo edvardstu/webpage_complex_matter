@@ -3032,6 +3032,12 @@
 
 /* Banner */
 
+mark{
+ background-color:#8bb2c5;
+opacity: 0.5;
+color: #fff;
+}
+
 	#banner {
 		padding: 12em 0 10em 0;
 		background-image: url('../../images/banner.jpg');
@@ -3041,6 +3047,7 @@
 		background-repeat: no-repeat;
 		text-align: center;
 		border-top: 0.5em solid #5385c1;
+		background-color: #6e6e6e;
 	}
 
 		#banner h1 {

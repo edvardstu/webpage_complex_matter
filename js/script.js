@@ -4,10 +4,18 @@ var time = 24000; // time in millie seconds
 
 //images
 
-images2[0] = "url(./images/banner1.jpg)";
-images2[1] = "url(./images/banner2.jpg)";
-images2[2] = "url(./images/banner3.jpg)";
-images2[3] = "url(./images/banner4.jpg)";
+images2[0] = "url(./images/banner/banner1.jpg)";
+images2[1] = "url(./images/banner/banner2.png)";
+images2[2] = "url(./images/banner/banner3.png)";
+images2[3] = "url(./images/banner/banner4.jpg)";
+images2[4] = "url(./images/banner/banner5.png)";
+images2[5] = "url(./images/banner/banner6.jpg)";
+images2[6] = "url(./images/banner/banner7.png)";
+images2[7] = "url(./images/banner/banner8.jpg)";
+images2[8] = "url(./images/banner/banner9.jpg)";
+images2[9] = "url(./images/banner/banner10.jpg)";
+images2[10] = "url(./images/banner/banner11.jpg)";
+
 //function
 
 
