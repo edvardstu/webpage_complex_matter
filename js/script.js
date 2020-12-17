@@ -23,7 +23,7 @@ function changeImage() {
     var el = document.getElementById('banner');
     $('#banner').
                 css({opacity: 0.3, backgroundImage: images2[i]}).
-                fadeTo(3000, 1.0);
+                fadeTo(1000, 1.0);
 
     if (i < images2.length - 1) {
         i++;

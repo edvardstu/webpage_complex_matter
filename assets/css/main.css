@@ -1640,6 +1640,10 @@
 			text-decoration: underline;
 		}
 
+		a.black {
+			color: #000000;
+		}
+
 		a:hover {
 			text-decoration: none;
 			color: #636566;
@@ -1923,12 +1927,17 @@
 
 			width: 100%;
 			border-bottom: 1px solid #dbdbdb;
-			padding-bottom: 2.5em;
+			padding-bottom: 0.5em;
 			margin-bottom: 3em;
 		}
 
+
 		.flex.flex-2 article {
 			width: 47%;
+		}
+
+		.flex.flex-2a article {
+			width: 49%;
 		}
 
 		.flex.flex-3 article {
@@ -1944,13 +1953,20 @@
 				right: -2em;
 				top: 0;
 				border-right: 1px solid #dbdbdb;
+
 				pointer-events: none;
 			}
 
 			.flex.flex-3 article:last-child:before {
 				position: absolute;
-				border-right: 1px solid #dbdbdb;
+				right: -2em;
+				border-right: none
 			}
+
+
+
+
+
 			.flex.flex-3::after {
 				content: '';
 				width: 28%;
@@ -1966,6 +1982,32 @@
 		}
 
 
+		.flex.flex-pic ul {
+		  display: flex;
+		  flex-wrap: wrap;
+		  list-style: none;
+		  padding-left: 0em;
+
+		}
+
+		.flex.flex-pic li {
+		  height: 40vh;
+		  flex-grow: 1;
+		  padding: 0.2em 0.2em 0.2em 0.2em;
+
+		}
+
+			.flex.flex-pic li:last-child {
+			  flex-grow: 1;
+
+			}
+
+		.flex.flex-pic img {
+		  max-height: 100%;
+		  min-width: 100%;
+		  object-fit: cover;
+		  vertical-align: bottom;
+		}
 
 
 
@@ -1974,6 +2016,11 @@
 			.flex.flex-2 article {
 				width: 100%;
 				margin-bottom: 3em;
+			}
+
+			.flex.flex-2a article {
+				width: 100%;
+				margin-bottom: -2em;
 			}
 
 				.flex.flex-2 article:last-child {
