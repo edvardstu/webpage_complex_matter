@@ -13,6 +13,10 @@
 
 /* Reset */
 
+	:root {
+	  --main-theme-color: #BC986A;
+	}
+
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
@@ -1636,7 +1640,7 @@
 		}
 
 		a {
-			color: #5385c1;
+			color: var(--main-theme-color);
 			text-decoration: underline;
 		}
 
@@ -1668,7 +1672,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #5385c1;
+		color: var(--main-theme-color);
 		font-weight: 300;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -1823,7 +1827,7 @@
 		}
 
 		section.wrapper.style1, article.wrapper.style1 {
-			background: #5385c1;
+			background: var(--main-theme-color);
 			color: #bacee6;
 		}
 
@@ -2116,8 +2120,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5385c1;
-			box-shadow: 0 0 0 1px #5385c1;
+			border-color: var(--main-theme-color);
+			box-shadow: 0 0 0 1px var(--main-theme-color);
 		}
 
 	.select-wrapper {
@@ -2227,8 +2231,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #5385c1;
-			box-shadow: 0 0 0 1px #5385c1;
+			border-color: var(--main-theme-color);
+			box-shadow: 0 0 0 1px var(--main-theme-color);
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2807,7 +2811,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #5385c1;
+			background-color: var(--main-theme-color);
 			color: #ffffff !important;
 		}
 
@@ -2863,7 +2867,7 @@
 	}
 
 		.subpage #header {
-			background: #5385c1;
+			background: var(--main-theme-color);
 			top: 0;
 			height: 44px;
 			line-height: 44px;
@@ -3002,7 +3006,7 @@
 		position: fixed;
 		right: 0;
 		top: 0;
-		background: #5385c1;
+		background: var(--main-theme-color);
 		color: #d4e0ef;
 		height: 100%;
 		max-width: 80%;
@@ -3093,7 +3097,7 @@ color: #fff;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0.5em solid #5385c1;
+		border-top: 0.5em solid var(--main-theme-color);
 		background-color: #6e6e6e;
 	}
 
