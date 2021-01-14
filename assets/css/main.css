@@ -14,9 +14,8 @@
 /* Reset */
 
 	:root {
-	  //--main-theme-color: #0d667f;
 	  --main-theme-color: #293352;
-	  --main-text-color: #606060;
+	  --main-text-color: #505050;
 	}
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -1652,12 +1651,13 @@
 
 		a:hover {
 			text-decoration: none;
-			color: #636566;
+			color: #b0b0b0;
+			font-weight: 200;
 		}
 
 		p a:hover{
 			text-decoration: none;
-			color: #636566;
+			color: #b0b0b0;
 		}
 
 	strong, b {
@@ -1830,7 +1830,7 @@
 
 		section.wrapper.style1, article.wrapper.style1 {
 			background: var(--main-theme-color);
-			color: #bacee6;
+			color: #fff;
 		}
 
 			section.wrapper.style1 header h2, article.wrapper.style1 header h2 {
@@ -1838,7 +1838,7 @@
 			}
 
 			section.wrapper.style1 header p, article.wrapper.style1 header p {
-				color: #bacee6;
+				color: #fff;
 			}
 
 			section.wrapper.style1 h3, article.wrapper.style1 h3 {
@@ -2822,7 +2822,8 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #6692c8;
+				background-color: #405081;
+				font-weight: 600;
 			}
 
 			input[type="submit"].special:active,
@@ -2830,7 +2831,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #4278b8;
+				background-color: var(--main-theme-color);
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2937,7 +2938,7 @@
 				z-index: 10003;
 			}
 
-				#header a.navPanelToggle .fa {
+				#header a.navPanelToggle .fa {nav
 					font-size: 1.25em;
 				}
 
@@ -3010,7 +3011,6 @@
 		right: 0;
 		top: 0;
 		background: var(--main-theme-color);
-		/*color: #d4e0ef;*/
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3031,7 +3031,6 @@
 		#navPanel a:not(.close) {
 			border-top: solid 1px rgba(255, 255, 255, 0.25);
 			color: #ffffff;
-			/*color: #b0b0b0;*/
 			font-weight: 600;
 			display: block;
 			padding: 0.75em 0;
@@ -3051,7 +3050,6 @@
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: transparent;
 			border: 0;
-			/*color: #d4e0ef;*/
 			color: #ffffff;
 			cursor: pointer;
 			display: block;
@@ -3084,8 +3082,7 @@
 			}
 
 			#navPanel .close:hover {
-				/*color: inherit;*/
-				color: #b0b0b0;
+				color: inherit;
 			}
 
 			#navPanel a:hover {
@@ -3094,23 +3091,15 @@
 
 /* Banner */
 
-mark{
- background-color:#8bb2c5;
-opacity: 0.5;
-color: #fff;
-}
-
 	#banner {
 		padding: 12em 0 10em 0;
 		background-image: url('../../images/banner.jpg');
 		background-size: 80em;
-		background-position: top;
+		background-position: top center;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0.5em solid var(--main-theme-color);
-		//background-color: #6e6e6e;
-		background-color: #ffffff;
+		border-top: 0.5em solid var(--main-theme-color);;
 	}
 
 		#banner h1 {
@@ -3176,14 +3165,7 @@ color: #fff;
 
 		}
 
-/* Rotating banner */
 
-#top-area {
-    background-image: url('../../images/banner.jpg');
-    background-color: #000;
-    width: 500px;
-    height: 500px;
-}
 
 /* makes images responsive */
 img {

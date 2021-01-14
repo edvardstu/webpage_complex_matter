@@ -14,7 +14,7 @@ images2[6] = "url(./images/banner/banner7.png)";
 images2[7] = "url(./images/banner/banner8.jpg)";
 images2[8] = "url(./images/banner/banner9.jpg)";
 images2[9] = "url(./images/banner/banner10.jpg)";
-images2[10] = "url(./images/banner/banner11.jpg)";
+
 
 //function
 
