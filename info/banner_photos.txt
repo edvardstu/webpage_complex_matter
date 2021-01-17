@@ -1,0 +1,13 @@
+Hvordan legge til eller endre banner bilder på nettsiden.
+
+Banner bildene ligger under images/banner/, og er navngitt banner1.jpg, banner2.jpg, osv.
+
+Filtype kan både være .jpg og .png.
+
+Hvilke bilder som inngår i banner er bestemt av en javascript-fil som heter i js/script.js
+
+Et bildet inngår i banneret hvis det er del av liste i javascript-filen. f. eks:
+
+images2[0] = "url(./images/banner/banner1.jpg)";
+
+For å legge til et nytt bilde må en nytt element legges til i listen med navnet til det nye bildet.
